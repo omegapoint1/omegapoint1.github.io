@@ -27,14 +27,14 @@ body
 {
     border: 5px outset red;
     background-color: violet;
-    text-align: left;
+    text-align: center;
     display: inline-block;
 }
 .myDiv2
 {
     border: 5px outset blue;
     background-color: orange;
-    text-align: left;
+    text-align: center;
     display: inline-block;
 }
   img  
