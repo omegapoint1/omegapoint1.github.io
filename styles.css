@@ -1,12 +1,20 @@
 body 
 {   
-    background-image: url(https://cdn.pixabay.com/photo/2012/04/10/16/14/union-jack-26119__340.png);
-    background-size: contain;
+    background-image: url("https://bestanimations.com/media/uk/2071327325uk-union-jack-flag-waving-animated-gif-19.gif");
+    background-size: cover;
     background-color: powderblue;
-    border-color:blueviolet;
-    border-style: double;
-    border-width: 2cm;
+    border-color:black;
+    border-style: dashed ;
+    border-width: 0.5cm;
 }
+#myVideo 
+{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
   h1 
 {
     color: lime;
@@ -23,7 +31,7 @@ body
 {
     color: black;
 }
- .myDiv
+.myDiv
 {
     border: 5px outset red;
     background-color: violet;
