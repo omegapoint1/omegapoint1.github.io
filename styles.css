@@ -1,0 +1,45 @@
+body 
+{   
+    background-image: url(https://cdn.pixabay.com/photo/2012/04/10/16/14/union-jack-26119__340.png);
+    background-size: contain;
+    background-color: powderblue;
+    border-color:blueviolet;
+    border-style: double;
+    border-width: 2cm;
+}
+  h1 
+{
+    color: lime;
+}
+  h2 
+{
+    color: yellowgreen;
+}
+  h3 
+{
+    color: green;
+}
+  p 
+{
+    color: black;
+}
+ .myDiv
+{
+    border: 5px outset red;
+    background-color: violet;
+    text-align: left;
+    display: inline-block;
+}
+.myDiv2
+{
+    border: 5px outset blue;
+    background-color: orange;
+    text-align: left;
+    display: inline-block;
+}
+  img  
+{
+    vertical-align:bottom;
+    float:left;
+    border: 2px solid black;
+}
